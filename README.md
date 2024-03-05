@@ -3,4 +3,4 @@ Ultra-fast, type-safe, Web-Standard Go version of Hono
 
 Coming soon...
 
-This repository is owned by @EdamAme-x.
+This repository is owned by [@EdamAme-x](github.com/EdamAme-x).
