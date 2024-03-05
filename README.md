@@ -1,7 +1,7 @@
 # hono.go
 Ultra-fast, type-safe, Web-Standard Go version of Hono 🔥
 
-<img src="/assets/icon.png" alt="icon" />
+<img src="/assets/icon.png" width="50" alt="icon" />
 
 Coming soon...
 
