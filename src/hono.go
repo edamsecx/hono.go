@@ -1,9 +1,9 @@
-package main
+package hono
 
 import (
 	"fmt"
 )
 
-func main() {
-	fmt.Println("Hello world 🔥")
+func say() {
+	fmt.Println("hi hono")
 }
